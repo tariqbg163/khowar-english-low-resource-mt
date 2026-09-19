@@ -6,8 +6,8 @@ The research investigates the use of multilingual pretrained neural machine tran
 
 ## Research Information
 
-**Researcher:** Tariq Ullah
-**Supervisor:** Prof. Dr. Maryam Mahsal Khan
+**Researcher:** Tariq Ullah <br>
+**Supervisor:** Prof. Dr. Maryam Mahsal Khan <br>
 **Research Collaboration:** Center of Digital Governance and Agentic AI (CDGAI), CECOS University, Peshawar, Pakistan
 
 ## Research Objectives
