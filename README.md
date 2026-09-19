@@ -136,7 +136,7 @@ If you use the publicly available code or resources from this repository in acad
 ## Contact
 
 **Tariq Ullah**
-Researcher – Khowar–English Machine Translation
+Researcher – Khowar–English Machine Translation <br>
 CDGAI, CECOS University, Peshawar, Pakistan <br>
 **Email:** [tariqullahcs@gamil.com](mailto:tariqullahcs@gamil.com)
 
